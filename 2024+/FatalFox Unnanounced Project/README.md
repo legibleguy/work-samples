@@ -1,4 +1,4 @@
-* FatalFox Unanounced Project
+# FatalFox Unanounced Project
 
 * An asymmetrical horror (a horror with a team of 1 vs a team of 2+ people)
 * Funded by a bigger AA studio, with the in-house technology and backend provided by the said studio
