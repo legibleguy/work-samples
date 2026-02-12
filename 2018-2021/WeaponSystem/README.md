@@ -1,4 +1,4 @@
-* Weapon System (aka CroissantWeapon)
+# Weapon System (aka CroissantWeapon)
 
 A module of my game that's responsible for defining weapons in the game and establishes the inventory/management unit for characters to carry these weapons
 
