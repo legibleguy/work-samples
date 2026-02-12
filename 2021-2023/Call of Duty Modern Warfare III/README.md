@@ -1,4 +1,4 @@
-* Call of Duty Modern Warfare III (2023)
+# Call of Duty Modern Warfare III (2023)
 
 I was a software engineering intern during the 2025 summer season. i was overlooking two projects in the Warzone 2.0:
 1. A battle royale circle aka "the storm"
