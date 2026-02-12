@@ -1,4 +1,4 @@
-* Mission Lost Control
+# Mission Lost Control
 
 A split-screen multiplayer shooter for the Nintendo 64, built in C with custom tooling. This was a team project where I handled AI systems, audio implementation, and critical asset pipeline tooling.
 
